@@ -1,0 +1,6 @@
+2023-10-30T02:01:55+00:00 INFO (6): ---------Start Log---------
+2023-10-30T02:01:55+00:00 INFO (6): Data Sent To 2c2p: {"version":"6.9","merchant_id":"764764000001140","payment_description":"3000039254","default_lang":"en","order_id":"3000039254","invoice_no":"3000039254","currency":"764","amount":"000000792000","customer_email":"uncheruboz@gmail.com","pay_category_id":"","promotion":"","user_defined_1":"64550","user_defined_2":"","user_defined_3":"","user_defined_4":"","user_defined_5":"","result_url_1":"https:\/\/www.ppgroupthailand.com\/th\/ccpp\/htmlRedirect\/response\/","result_url_2":"","payment_option":"ALL"}
+2023-10-30T02:01:55+00:00 INFO (6): ---------End Log---------
+2023-10-30T06:12:53+00:00 INFO (6): ---------Start Log---------
+2023-10-30T06:12:53+00:00 INFO (6): Data Sent To 2c2p: {"version":"6.9","merchant_id":"764764000001140","payment_description":"3000039272","default_lang":"en","order_id":"3000039272","invoice_no":"3000039272","currency":"764","amount":"000001170000","customer_email":"tonkla.kalyakrit@gmail.com","pay_category_id":"","promotion":"","user_defined_1":"64574","user_defined_2":"","user_defined_3":"","user_defined_4":"","user_defined_5":"","result_url_1":"https:\/\/www.ppgroupthailand.com\/th\/ccpp\/htmlRedirect\/response\/","result_url_2":"","payment_option":"ALL"}
+2023-10-30T06:12:53+00:00 INFO (6): ---------End Log---------
